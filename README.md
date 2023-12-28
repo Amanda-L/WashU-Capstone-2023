@@ -13,4 +13,4 @@ Additionally, we present a cost-benefit analysis of the proposed framework, high
 As technology evolves and cyber threats continue to evolve, Y-GWASH Inc. Cybersecurity policies need to be continuously monitored and updated. By implementing our proposed cybersecurity framework, Y-GWASH Inc. will be able to effectively protect its critical assets while preparing for security challenges that may arise in the future. This is not only an investment in technology, but also in the long-term success and sustainability of the company.
 
 
-For full report, see Final_Roport.pdf.
+For full report, see Final_Roport.pdf. For presentation slides, see Executive Presentation.pdf.

@@ -1,6 +1,8 @@
 # WashU-Capstone-2023
 
-This capstone project outlines a comprehensive cybersecurity framework designed by a consultancy for Y-GWASH Inc., a hypothetical healthcare company. Me and 4 other team members, play as a consultant company, with expertise in IT and cybersecurity, that aims to address the significant cybersecurity risks in the healthcare industry. This includes data breaches, ransomware, phishing, and DDoS attacks. The framework stresses the importance of cybersecurity in protecting patient data, ensuring medical device security, maintaining operational continuity, managing financial implications, and complying with regulatory standards. 
+This capstone project outlines a comprehensive cybersecurity framework designed by a consultancy for Y-GWASH Inc., a hypothetical healthcare company. Me and 4 other team members, play as a consultant company, with expertise in IT and cybersecurity, that aims to address the significant cybersecurity risks in the healthcare industry. This includes data breaches, ransomware, phishing, and DDoS attacks. 
+
+After reviewing various IT security regulations (e.g. National Institute of Standards and Technology (NIST), International Organization for Standardization (ISO), Cybersecurity Framework (CSF), and Center for Internet Security (CIS)), we came up with a security framework that can cater to mid-sized healthcare companies. The framework stresses the importance of cybersecurity in protecting patient data, ensuring medical device security, maintaining operational continuity, managing financial implications, and complying with regulatory standards. 
 
 Our key components of the framework include:
 1.	Strategic Aspect: Focuses on business continuity, data lifecycle, compliance, and human training.
